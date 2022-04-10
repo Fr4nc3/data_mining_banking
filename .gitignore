@@ -37,3 +37,7 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+*.rds
+joinData.csv
+joinProspects.csv
+topPropspect.csv
